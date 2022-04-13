@@ -1,5 +1,5 @@
 # MissingNumber
-'''
+[
 def missingnumber(n, arr):
   
   sum = n*(n+1)/2
@@ -21,6 +21,4 @@ arr = list(map(int, input().split()))
 final_res = missingnumber(n,arr)
 
 print(final_res)
-
-
-'''
+]
